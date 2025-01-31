@@ -45,3 +45,5 @@ This web application consists of multiple static HTML pages styled with CSS. The
 
    ```bash
    git clone https://github.com/your-username/HtmlApplication.git
+
+**Published(deployed) this application on github.Link to open it- https://bhavanarangarao19.github.io/HtmlApplication/**
